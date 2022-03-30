@@ -1,4 +1,4 @@
 <div>
-  <img src="https://discord.c99.nl/widget/theme-1/446862141740548116.png" />
+  <img src="http://valleypvp.us/banners/a.png" />
 </div>
 
