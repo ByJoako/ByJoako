@@ -1,4 +1,4 @@
 <div>
-  <img src="http://valleypvp.us/banners/a.png" />
+  <img src="http://helydev.com/banners/446862141740548116/banner.png" />
 </div>
 
