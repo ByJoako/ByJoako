@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-https://discord.com/channels/941430590228529183/958503724110741564
+http://helydev.com/banners/446862141740548116/banner.png
